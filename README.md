@@ -1,3 +1,8 @@
+Trevor Arellanes
+1/28/23
+Domain: Healthcare
+
+
 # datafun-03-datatypes
 
 > Practice with Python data types, filter(), map(), and list comprehensions

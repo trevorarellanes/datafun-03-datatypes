@@ -172,6 +172,7 @@ copy(): Return a shallow copy of the list.
 # append an item to the end of the list
 lst = [1, 2, 3]
 lst.append(4)
+print(lst)
 
 # extend the list with another list
 lst.extend([4, 5, 6])
